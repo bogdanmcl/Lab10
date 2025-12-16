@@ -1,0 +1,118 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.2.7" pages="3">
+  <diagram name="Page-1" id="y36_SIlvNOSyhaTH73Ci">
+    <mxGraphModel dx="1418" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cGyXkY57FpFyII9HMW-A-16" edge="1" parent="1" source="cGyXkY57FpFyII9HMW-A-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="cGyXkY57FpFyII9HMW-A-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cGyXkY57FpFyII9HMW-A-12" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Student" vertex="1">
+          <mxGeometry height="120" width="80" x="80" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="cGyXkY57FpFyII9HMW-A-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Urmarire progres&lt;div&gt;vizual&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="260" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cGyXkY57FpFyII9HMW-A-20" edge="1" parent="1" source="cGyXkY57FpFyII9HMW-A-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="cGyXkY57FpFyII9HMW-A-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cGyXkY57FpFyII9HMW-A-18" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="C.D." vertex="1">
+          <mxGeometry height="120" width="80" x="80" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="cGyXkY57FpFyII9HMW-A-21" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Monitorizarea&amp;nbsp;&lt;div&gt;materialelor&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="260" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="cGyXkY57FpFyII9HMW-A-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="380" width="430" x="170" y="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="QBV-83MjvwGgzP7o0YDR" name="Page-2">
+    <mxGraphModel dx="1418" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tcKIMmg_0wUllbErYHC3-1" parent="1" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="410" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tcKIMmg_0wUllbErYHC3-2" edge="1" parent="1" source="tcKIMmg_0wUllbErYHC3-1" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tcKIMmg_0wUllbErYHC3-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" value="Accesare curs" vertex="1">
+          <mxGeometry height="40" width="120" x="365" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="tcKIMmg_0wUllbErYHC3-4" edge="1" parent="1" source="tcKIMmg_0wUllbErYHC3-3" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tcKIMmg_0wUllbErYHC3-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" value="Preluare date" vertex="1">
+          <mxGeometry height="40" width="120" x="365" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="tcKIMmg_0wUllbErYHC3-13" edge="1" parent="1" source="tcKIMmg_0wUllbErYHC3-12" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tcKIMmg_0wUllbErYHC3-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" value="Calculeaza datele" vertex="1">
+          <mxGeometry height="40" width="120" x="365" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="tcKIMmg_0wUllbErYHC3-15" edge="1" parent="1" source="tcKIMmg_0wUllbErYHC3-14" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tcKIMmg_0wUllbErYHC3-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" value="Afiseaza bara de progres" vertex="1">
+          <mxGeometry height="40" width="120" x="365" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="tcKIMmg_0wUllbErYHC3-17" edge="1" parent="1" source="tcKIMmg_0wUllbErYHC3-16" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tcKIMmg_0wUllbErYHC3-18" parent="1" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="410" y="530" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="O0xvFfiKnRLtmrCiMvcc" name="Page-3">
+    <mxGraphModel dx="1418" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SUpHSGmpt855XidypHed-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="600" width="800" x="30" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="SUpHSGmpt855XidypHed-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Curs Informatica aplicata" vertex="1">
+          <mxGeometry height="60" width="760" x="40" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="SUpHSGmpt855XidypHed-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Progres: 60%" vertex="1">
+          <mxGeometry height="30" width="100" x="40" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="SUpHSGmpt855XidypHed-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="20" width="510" x="50" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="SUpHSGmpt855XidypHed-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" value="" vertex="1">
+          <mxGeometry height="20" width="320" x="50" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="SUpHSGmpt855XidypHed-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="Mod1: Finalizat" vertex="1">
+          <mxGeometry height="60" width="270" x="50" y="375" as="geometry" />
+        </mxCell>
+        <mxCell id="SUpHSGmpt855XidypHed-18" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" value="" vertex="1">
+          <mxGeometry height="35" width="40" x="280" y="387.5" as="geometry" />
+        </mxCell>
+        <mxCell id="SUpHSGmpt855XidypHed-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="Mod2: Nefinalizat" vertex="1">
+          <mxGeometry height="60" width="270" x="50" y="435" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
